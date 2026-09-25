@@ -1,0 +1,5 @@
+outs:
+- md5: 3c13462bd017a1683f21529af8b81c52
+  size: 470
+  hash: md5
+  path: segmented_customers.csv
